@@ -2,8 +2,8 @@ package animal;
 
 public class Animal {
     //フィールド
-    private String name;
-    private int age;
+    private String name; //名前
+    private int age; //年齢
 
     //引数なしコンストラクタ
     public Animal() {

@@ -1,7 +1,7 @@
 package animal;
 
 public class Human extends Animal implements Thinkable{
-    public String hobby;
+    public String hobby; //趣味
     //引数なしコンストラクタ
     public Human() {
 
