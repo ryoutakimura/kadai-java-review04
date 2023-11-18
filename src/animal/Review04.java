@@ -3,8 +3,8 @@ package animal;
 public class Review04 {
 
     public static void main(String[] args) {
-        // TODO 自動生成されたメソッド・スタブ
-
+        Animal animal =new Animal("田中 太郎", 25);
+        animal.say();
     }
 
 }
